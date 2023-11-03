@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "yoyo_cs/obj"
 		}
 	]
 }
